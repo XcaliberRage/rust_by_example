@@ -1,0 +1,9 @@
+[package]
+name = "RustByExample"
+version = "0.1.0"
+authors = ["XcaliberRage <40062936+XcaliberRage@users.noreply.github.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
